@@ -1,5 +1,5 @@
 id: icloud_addressbook_disable
-title: Disable iCloud Address Book
+title: enable iCloud Address Book
 discussion: |
   The macOS built-in Contacts.app connection to Apple's iCloud service _MUST_ be disabled.
 
