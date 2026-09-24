@@ -1,5 +1,5 @@
 id: system_settings_touch_id_settings_disable
-title: Disable the Touch ID System Settings Pane
+title: Enable the Touch ID System Settings Pane
 discussion: |
   The System Settings pane for Touch ID _MUST_ be disabled.
   
